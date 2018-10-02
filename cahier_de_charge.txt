@@ -1,8 +1,8 @@
-								Fonctionnalités attendus
-								Lister les fichier
-								Lister les dossiers
-								Navigation(boutton retour)
-								Création de dossiers et de fichiers
+								1°)Fonctionnalités attendus
+								2°)Lister les fichier
+								3°)Lister les dossiers
+								4°)Navigation(boutton retour)
+								1°)Création de dossiers et de fichiers
 
 
 
